@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\bin\Debug\Foreach döngüsü ile çift sayıları bulma.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\bin\Debug\Foreach döngüsü ile çift sayıları bulma.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\obj\x86\Debug\Foreach döngüsü ile çift sayıları bulma.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\obj\x86\Debug\Foreach döngüsü ile çift sayıları bulma.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\Foreach döngüsü ile çift sayıları bulma\Foreach döngüsü ile çift sayıları bulma\obj\x86\Debug\Foreach döngüsü ile çift sayıları bulma.pdb
